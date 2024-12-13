@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5fae5a96.css",
+    "main.js": "/react-portfolio/static/js/main.9bd33989.js",
+    "static/media/Sagar.jpg": "/react-portfolio/static/media/Sagar.4fc13cd10a22335d0f01.jpg",
+    "static/media/project-1.jpg": "/react-portfolio/static/media/project-1.ef941fbdd953176ba468.jpg",
+    "static/media/project-2.jpg": "/react-portfolio/static/media/project-2.848a63d853fea7114f27.jpg",
+    "static/media/project-3.jpg": "/react-portfolio/static/media/project-3.d40ef9bdb47609537921.jpg",
+    "static/media/sastra-logo.png": "/react-portfolio/static/media/sastra-logo.bff97ed6fef79b9f23eb.png",
+    "static/media/project-4.jpg": "/react-portfolio/static/media/project-4.cee9d1175731475a650f.jpg",
+    "static/media/ub-logo.png": "/react-portfolio/static/media/ub-logo.6e24518a1cf2484aaee3.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.5fae5a96.css.map": "/react-portfolio/static/css/main.5fae5a96.css.map",
+    "main.9bd33989.js.map": "/react-portfolio/static/js/main.9bd33989.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fae5a96.css",
+    "static/js/main.9bd33989.js"
+  ]
+}
